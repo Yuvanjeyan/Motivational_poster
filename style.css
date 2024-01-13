@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+  }
+  .first{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    text-align: center;
+  }
+  img{
+    border: 5px solid white;
+  }
+  h1{
+    color: white;
+    font-family: Libre Baskerville;
+    text-transform: uppercase;
+  }
+  p{
+    color: white;
+  }
